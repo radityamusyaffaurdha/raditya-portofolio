@@ -23,7 +23,7 @@ export const socialLinks: SocialLink[] = [
   },
   {
     label: "LinkedIn",
-    href: "https://www.linkedin.com/in/raditya-musyaffa-urdha",
+    href: "https://www.linkedin.com/in/raditya-musyaffa-urdha-312255423/",
     icon: "Linkedin",
   },
   {
