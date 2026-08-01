@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://radityamusyaffaurdha.dev/sitemap.xml
